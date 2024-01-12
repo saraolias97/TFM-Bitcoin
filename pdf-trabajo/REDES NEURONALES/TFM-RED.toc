@@ -1,0 +1,14 @@
+\babel@toc {spanish}{}
+\contentsline {section}{\numberline {1}Fundamentos teóricos}{2}{}%
+\contentsline {subsection}{\numberline {1.1}Redes neuronales}{2}{}%
+\contentsline {subsubsection}{\numberline {1.1.1}Redes LSTM}{5}{}%
+\contentsline {subsubsection}{\numberline {1.1.2}Redes MLP}{5}{}%
+\contentsline {subsubsection}{\numberline {1.1.3}Redes Neuronales Convolucionales}{5}{}%
+\contentsline {subsection}{\numberline {1.2}Experimentacion}{7}{}%
+\contentsline {subsubsection}{\numberline {1.2.1}Red neuronal utilizando capas Dense}{7}{}%
+\contentsline {subsubsection}{\numberline {1.2.2}Red neuronal utilizando capas LSTM}{10}{}%
+\contentsline {subsubsection}{\numberline {1.2.3}Red neuronal utilizando capas MLP}{10}{}%
+\contentsline {subsubsection}{\numberline {1.2.4}Red neuronal utilizando capas Dense-LSTM}{10}{}%
+\contentsline {subsubsection}{\numberline {1.2.5}Red neuronal utilizando capas Dense-MLP}{10}{}%
+\contentsline {subsubsection}{\numberline {1.2.6}Red neuronal utilizando capas LSTM-MLP}{10}{}%
+\contentsline {section}{Bibliografía}{10}{}%
